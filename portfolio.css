@@ -12,12 +12,12 @@
     border: 1px solid rgb(145, 247, 105);
 }
 
-ul {
+.nav-ul {
     display: block;
     list-style-type: none;
 }
 
-li {
+.nav-li {
     float: left;
     border-right: solid 1px rgb(255, 255, 255);
     background-color: #F6995C;
@@ -41,7 +41,7 @@ li {
 .about-profession-header {
     margin-top: 50px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .about-info {
@@ -72,7 +72,7 @@ li {
 .skills-header {
     padding-top: 50px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .skl {
@@ -95,7 +95,7 @@ li {
 .projects-header {
     padding-top: 50px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .prj {
@@ -109,7 +109,7 @@ li {
 
 .prj-1, .prj-2 {
     padding: 10px;
-    font-size: 1.5rem;
+    font-size: 24px;
 }
 
 .img-prj {
@@ -124,7 +124,7 @@ li {
 .contact-header {
     padding-top: 50px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .contact-me {
@@ -134,7 +134,7 @@ li {
 .contact-container {
     margin: auto;
     background-color: #FFEBD4;
-    border-radius: 2rem;
+    border-radius: 32px;
     width: 40%;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -148,17 +148,17 @@ li {
 }
 
 .contact-label {
-    padding: 0.5rem;
-    font-size: 1rem;
+    padding: 8px;
+    font-size: 16px;
 }
 
 ::placeholder {
-    font-size: 1rem;
+    font-size: 16px;
 }
 
 .message {
     width: 100%;
-    font-size: 1rem;
+    font-size: 16px;
     border-radius: 12px;
 }
 
